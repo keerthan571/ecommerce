@@ -3,7 +3,7 @@ import './HomePage.css'
 export function HomePage(){
     return(
         <>
-        <title>ECpmmerce-Home</title>
+        <title>ECommerce-Home</title>
             <div className="header">
                 <div className="left-section">
                 <a
